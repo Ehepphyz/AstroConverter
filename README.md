@@ -69,14 +69,18 @@ For production environments managing external HEALPix libraries, compile and bui
 
 Special thanks to the HEALPix (Hierarchical Equal Area isoLatitude Pixelation) team and collaboration group. This project heavily relies on their mathematical frameworks, pixelation algorithms, and software libraries to achieve efficient hierarchical indexing of the celestial sphere. Their dedication to open-source astrophysics tools enables reliable, high-throughput spatial database partitioning for modern astronomical catalogs.
 
+HEALPix: https://irsa.ipac.caltech.edu/healpix/
+
+HEALPix: https://healpix.sourceforge.io/
+
 ## License & Contributions
 
 ### Open-Source Research License
-This engine is distributed as an open-source academic utility under the **MIT License**. You are free to modify, fork, and integrate these modules into larger astrophysics pipelines, telescope scheduling packages, or hydrodynamic simulations, provided that the original copyright notice is retained.
+This software is distributed as an open-source academic utility under the **MIT License**. You are free to modify, fork, and integrate these modules into larger astrophysics pipelines, telescope scheduling packages, or hydrodynamic simulations, provided that the original copyright notice is retained.
 
 ### Academic Citation
-If this engine or any of its localized analytical subsystems (e.g., the ultra-relativistic degeneracy models or the custom Parker wind solvers) are used to generate data, figures, or thresholds for peer-reviewed journal publications, please cite this repository as follows:
-> *AsPhyEngine (2026). AsPhyEngine: High-Performance Internal Multi-Threaded Astrophysics Computational Workbench.*
+If this software or any of its localized analytical subsystems (e.g., the ultra-relativistic degeneracy models or the custom Parker wind solvers) are used to generate data, figures, or thresholds for peer-reviewed journal publications, please cite this repository as follows:
+> *Astro-Converter (2026). AstroConverter: A lightweight, professional-grade software layer designed to convert equatorial celestial coordinates (**ICRS / RA-Dec**) directly into **Supergalactic Coordinates (SGL-SGB)**.*
 
 ### Support & Bug Reports
 For core equation adjustments, boundary limit expansions, or to report syntax exceptions, please open an issue in the repository tracking board or contact the internal systems administrator.
