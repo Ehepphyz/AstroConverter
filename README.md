@@ -76,11 +76,10 @@ HEALPix: https://healpix.sourceforge.io/
 ## License & Contributions
 
 ### Open-Source Research License
-This software is distributed as an open-source academic utility under the **MIT License**. You are free to modify, fork, and integrate these modules into larger astrophysics pipelines, telescope scheduling packages, or hydrodynamic simulations, provided that the original copyright notice is retained.
+This software is developed and distributed specifically to support open-science initiatives, public astrophysical research, and independent academic implementations. In keeping with the collaborative nature of astronomical data science, modifications, forks, and integrations of this mathematical pipeline are fully encouraged under an open framework, provided the underlying source logic remains transparently available to the research community.
 
 ### Academic Citation
-If this software or any of its localized analytical subsystems (e.g., the ultra-relativistic degeneracy models or the custom Parker wind solvers) are used to generate data, figures, or thresholds for peer-reviewed journal publications, please cite this repository as follows:
-> *Astro-Converter (2026). AstroConverter: A lightweight, professional-grade software layer designed to convert equatorial celestial coordinates (**ICRS / RA-Dec**) directly into **Supergalactic Coordinates (SGL-SGB)**.*
+If this high-precision pipeline or structural implementation is utilized in publications, peer-reviewed research papers, or formal catalog fabrications, please include a citation referencing this repository alongside acknowledgment of the standard reference frameworks (ICRS J2000, Supergalactic frame baselines, and the HEALPix pixelation system) that make independent data alignment verifiable.
 
 ### Support & Bug Reports
-For core equation adjustments, boundary limit expansions, or to report syntax exceptions, please open an issue in the repository tracking board or contact the internal systems administrator.
+For technical issues, precision anomalies near coordinates, or requests to expand the transformation matrix matrices to alternative epochs, please open an Issue in the project's repository tracking layout. When logging a bug report, please provide the exact input parameters (Right Ascension/Declination) and your expected spatial pixel index destination to accelerate verification.
